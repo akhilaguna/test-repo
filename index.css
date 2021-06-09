@@ -1,0 +1,47 @@
+body
+{
+    background-color: grey;
+}
+h1
+{
+    color:mintcream;
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+#top
+{
+    width:1495px;
+    height:200px;
+    border: solid black;
+    background-color: burlywood;
+}
+#left
+{
+    width:500px;
+    height:600px;
+    border: solid black;
+    background-color:khaki;
+}
+#right
+{
+    width: 500px;
+    height: 600px;
+    border: solid black;
+    float:right;
+    background-color:khaki;
+}
+#bottom
+{
+    width: 1495px;
+    height: 200px;
+    border: solid black;
+    background-color: burlywood;
+}
+#contain
+{
+    width:1500px;
+    height:1000px;
+}
